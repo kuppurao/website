@@ -1,7 +1,7 @@
-title: Your awesome title
+title: Cerebrate Life
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: kuppurao
+  email: kuppurao@msn.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,17 +14,17 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
+  generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: kuppurao
+    github:  kuppurao
     rss: rss
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: kuppurao
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -43,7 +43,7 @@ minima:
 
     # GitLab instances
     # gitlab:
-    # - username: jekyll
+    # - username: jeklyy
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
