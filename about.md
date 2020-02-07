@@ -1,4 +1,4 @@
-﻿# Hola
+﻿# About
 
 I don’t have any particular specialist skills. I have sort of a vague knowledge of everything - Yokoi
 
