@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I don't have any particular specialist skills. I have sort of a vague knowledge of everything - Yokoi
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bio: Assortment of different jobs --> Cognizant --> Wipro --> Cognizant --> AWS
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Or, in other words,
 
+Didn't know much --> Knew a little --> Knew some more --> Thought I knew a lot --> Realized I dont know much
 
-[jekyll-organization]: https://github.com/jekyll
+Topics that get me excited - 
+
+Music, Technology, Economics, Foreign Policy, Politics
+
+People that get me excited - 
+
+Ilayaraja, John Mclaughlin, Zakir Hussain
+
+People that get me excited these days - 
+
+Sanjay Subramanyam, Chris Potter
+
+Thought leaders that get me excited - 
+
+Seth Godin, Fareed Zakaria
+
+Completely random thing I am into - 
+
+Standup comedy
+
