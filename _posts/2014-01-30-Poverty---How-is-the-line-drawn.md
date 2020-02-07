@@ -1,0 +1,26 @@
+---
+title: Poverty — How is the line drawn?
+description: ''
+date: '2014-01-30T04:46:42.000Z'
+categories: ''
+keywords: ''
+slug: /@kuppurao/poverty-how-is-the-line-drawn-dfd471f7026b
+---
+
+A friend of mine asked me a question. With his permission, I am quoting the question as well as my response to it.
+
+> Explain why BPL in India is 55, as opposed to $3,961 for family of 4 in US? Aren’t the basic needs roughly the same?
+
+First of all, lets think about what BPL means in the context of India. BPL, as defined by politicians, political parties, ruling governments, agencies of the ruling governments are all no more than a tool for posturing. Even if the administrative machinery is up to date with market trends, which it is not, these numbers are fudged by governments to present a certain view of how their countrymen are faring, either to satisfy the electorate, or to enhance the country’s image in the world stage. For example, if you have to project “India Shining” or “Incredible India”, you have to show that there is a downward trend of people below poverty line. If you can’t reduce poverty, you might as well reduce the poverty line. As a contrasting example, when Sonia Gandhi announced the FSB program, she created a doctored business case, based on BPL numbers published by commissions created by her almost exclusively for this purpose. In this case, if you noticed, she actually raised the poverty line, so more people can be shown as beneficiaries of FSB.
+
+That only begs the question of who provided this Rs 55 number. If it came from a politically motivated agency, my logic sticks. If it came from a non-politically-motivated agency, all other things being the same, I would assert Rs 55 as being fair OR question the methodology itself.
+
+I am not naïve to think that BPL numbers for US are 100% scientific and perfect. But the trend of changes in US BPL values shows a general consistency with how people perceive the cost of living, and also with respect to unemployment rates, growth etc.. In short, it looks to be more scientific and more “in touch with reality” than the methodology used by India. Information about the (US) methodology, albeit limited, can be accessed [here](http://en.wikipedia.org/wiki/Poverty_in_the_United_States). Methodologies perfect themselves with repeated and consistent use. In other words, the methodology can’t be tailored to be the “flavor of the day”.
+
+Now the second part of my friend’s question has to do with too high and too low. Why is it less than $30 per month for India and $1,962 per month for US? Let us say for convenience that the BPL methodology for India is screwed up and the real poverty line is 10 times the official numbers — it is still at $300 per month — still doesn’t compare with the US numbers.
+
+The numerical difference can be explained partly by what is called Purchasing Power Parity (PPP in short). I will use US and India as examples, since that is also the question. At its simplest, it is the parity between what a rupee can buy and what a dollar can buy. Don’t think of conversion rates — leave that aside for now. In US, I can get a bottle of water or soda for a $1, I can buy half of a fast food meal for a dollar, my train ride to work costs $2, my petrol costs about little over a dollar per liter. Whereas in India, water/ soda bottle costs about Rs 15, fast food meal could cost between Rs 15 and Rs 20 (basic meal), train ride could cost about Rs 15–20 rupees, petrol costs about Rs 70 a liter. Lets move on to big items — I can rent a house between $1,200 and $2,000 a month depending on whether you live within a metro area (it could be much less than 1200 if you live in a non-metro area and much greater than 3000 for San Francisco, New York City etc.). In India, you need more than Rs 5,000 to Rs 10,000 rupees if you were to rent, much higher in urban concentrations. A movie ticket costs between $4 and $7, whereas a Rs 4 theater in India is a non-starter ;) Even the median US per capita income, in numerical terms, is far less than the median Indian per capita income (People still rave 6-figure salaries in US, whereas an upper middle class family in India is easily in their 8-figure salaries)
+
+The point is that, in numerical terms the buying power of a unit of currency is not the same. This is only the simple version of the answer. If you have to understand why $1 does not equal Rs 1, we need to get started on how foreign exchange works, types of currencies (floating, pegged, manipulated) and in an open market, what causes the value of a dollar against a rupee to change. I certainly am not an expert, but have the fundamental idea of how it works.
+
+When I compare a price trend or a cost trend across US and India, I tend to apply a multiplication factor of anywhere between 8 and 14, usually 10. If something costs $1 in US, it is okay for that item to cost Rs 10 in India, and vice versa. I believe the factor 10 is not scientific, but not entirely abstract either. Consider this — India’s GDP in real terms is $1.8 billion, but PPP adjusted GDP is $5.7 trillion — the PPP is about 3. But if you consider average CPI, the ratio might be steeper.
