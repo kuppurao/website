@@ -1,13 +1,10 @@
 ---
-title: >-
-  If they were always paid through a credit to the bank account, we wouldn’t be
-  in this situation…
+title: What I wrote 7 years ago still rings true.
 description: ''
-date: '2017-01-14T23:14:02.679Z'
+date: '2017-01-18T22:52:41.303Z'
 categories: ''
 keywords: ''
-slug: >-
-  /@kuppurao/if-they-were-always-paid-through-a-credit-to-the-bank-account-we-wouldnt-be-in-this-situation-ae484daf6e0
+slug: /@kuppurao/what-i-wrote-7-years-ago-still-rings-true-25e7179fe9c9
 ---
 
-If they were always paid through a credit to the bank account, we wouldn’t be in this situation, would we?
+What I wrote 7 years ago still rings true. Of course, there are couple of charges I want airlines to impose.

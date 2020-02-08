@@ -1,18 +1,36 @@
 ---
-title: Book Review — Industries of the Future
-description: 'Insightful, not necessarily engaging'
-date: '2017-02-27T03:53:44.947Z'
+title: Medium Monetization
+description: >-
+  I am not a person that returns purpose-bought things from Walmart. I am not a
+  person that goes for “free” at any cost. I still find the…
+date: '2017-03-23T04:48:50.778Z'
 categories: ''
 keywords: ''
-slug: /@kuppurao/book-review-industries-of-the-future-fba686519b44
+slug: /@kuppurao/medium-monetization-203457d65c32
 ---
 
-Industries Of The Future is a must-read for anyone who is curious about the bleeding edge changes occurring in technology as we speak. While in mainstream media, the term “technology” has been reduced to the latest smartphone, I always knew there was much more to it — especially in the areas of healthcare, pharmacology, public health and so on.
+Medium Monetization
 
-I consider myself privileged to be in an environment where the new possibilities in computing — particularly limitless access to computing power through Cloud, ability to glean intelligence from very large arrays of data (Big Data), interconnecting and collecting actionable intelligence from billions of devices (IoT) — are ever-present in 8 out of 10 discussions I have with my clients and colleagues. But really, that’s all I knew about it — the technology aspect of it.
+I am not a person that returns purpose-bought things from Walmart. I am not a person that goes for “free” at any cost. I still find the changes in Medium specifically with respect to monetization weird.
 
-What real problems do they solve? This perhaps was my biggest learning from the book.
+First off, Medium is way better than the blogging platforms (remember WordPress? Yikes!). What it lacks in features it makes up for in elegance, simplicity and UX.
 
-From driverless cars to genomic sequencing to find cure for, and to pre-empt health problems in human beings, sequencing animal DNAs so their body parts can be used in humans (xenotransplantation), de-ageing, moving on to areas more apparently linked to technology (cyber warfare and defense, Blockchain etc..), precision agriculture and so much more.
+Few weeks ago they started charging for what used to be a free service – domain redirect. To be fair, all portals already do this and I was kinda surprised Medium did this for free. I later realized I was perhaps an early-bird. $75 for a single domain is a bit much, but would have been acceptable if that was the end of it.
 
-As for the book itself, there are 6 chapters, each focusing on one major theme, except the 6th. The last chapter read a bit like [Why Nations Fail](https://blog.kuppurao.com/book-review-why-nations-fail-fcb0f1ae65ea#.ll8hekfgq) and then a bit like [Half the Sky](https://blog.kuppurao.com/book-review-half-the-sky-9eab5047a028#.4x5j3tv0e) and lot about Russia and China. The summation section lays out skills needed for the generation that is still in school — this I thought was insightful, while not entirely surprising. While the book was extremely informative on the chosen topics, I felt the story telling was not as cohesive and compelling as it could have been. At any rate, this is a good and easy read.
+Content portals in general are struggling to monetize. Ads are yucky and spoil everything – publisher satisfaction, reader satisfaction and everything in between. Even Wikipedia periodically solicit donations (I have donated couple of times – proof I am not a free-hugger)
+
+It must be awkward for Medium to charge people this late in the game, unless they use price as a means of cleaning up (Tumblr, anyone?)
+
+Today I got an email asking me to make a choice to pay $5 per month. Whether I consider it worthwhile for the readership of my content is besides the point.
+
+But I thought Medium could have made a honest statement like Wikipedia as opposed to saying things like they are about to save the world.
+
+While at it, some more thoughts -
+
+> Why not charge companies that use Medium as their official blog? Few 100s? Even thousands should be fine.
+
+> Why not sell Medium codebase to individual and corporate buyers? It’s possible that selling codebase (WordPress.org) is beginning of the end. But it may help subsidize the regular user
+
+At the end, if $5 becomes the default subscription, people will resort to old ways such as Wordpress (again, Yikes!) which have far greater scale, so will be cheaper. And the nerdy types will resort to Digital Ocean / Lightsail type of solutions that will give the same outcome at lesser cost. Or may be people will learn to write a serverless blog.
+
+Will [Medium Staff](https://medium.com/u/a32c340ea342) read this?

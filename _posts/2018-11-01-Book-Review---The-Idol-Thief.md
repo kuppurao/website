@@ -1,29 +1,26 @@
 ---
-title: Where is Microsoft going?
+title: Book Review — The Idol Thief
 description: >-
-  I am in Seattle today. I happened to finish reading the final chapters of Hit
-  Refresh on my way to Seattle. What a coincidence. Because of…
-date: '2017-10-10T17:06:14.191Z'
-categories: ''
-keywords: ''
-slug: /@kuppurao/where-is-microsoft-going-852444b33023
+  Every country regardless of its political and economic system, with
+  governments weak or poor, stable or shaky, has an active, functioning…
+date: '2018-11-01T22:57:12.710Z'
+categories: 'Book Review'
+keywords: 'Hitchens'
+slug: /@kuppurao/book-review-the-idol-thief-f1066c6833d
 ---
 
-I am in Seattle today. I happened to finish reading the final chapters of [Hit Refresh](https://news.microsoft.com/hitrefresh/) on my way to Seattle. What a coincidence. Because of the timing and the hangover, I happened to perceive and associate anything and everything I saw in Seattle — starting with the airport — with Satya Nadella. After all, 28 years is a long time — I have never been in 1 city for this long — since I was born.
+> Every country regardless of its political and economic system, with governments weak or poor, stable or shaky, has an active, functioning and vibrant free-market — it is the black market.
 
-After reading this book, I reckon the reader will have a certain sense of clarity about what Microsoft is doing and where Microsoft is going. The story of [failed acquisitions](https://www.theverge.com/2016/5/25/11766540/microsoft-nokia-acquisition-costs) and other failed endeavors have been elaborated in great detail. So when I read that Microsoft is [giving up its mobile business](https://www.theverge.com/2015/7/8/8913365/microsoft-lumia-windows-phones-strategy-2015), it was not only not surprising, but very clear in many ways. Asks Nadella in his book (several times), “Why do we exist?”. “What unresolved problem are we solving?” “What is the soul of Microsoft?” — I guess any product that doesn’t fit their existential questions will be knocked off — especially if they are not profitable and leading.
+When I saw the book The Idol Thief on amazon.in, I knew I had to read it. Not that I am deeply interested in religion or well read in sculpture or history, but I wanted to understand the trade and economics of idol theft, a concept I have heard about all my life, but did not fully understand. Also, temple art always piques my curiosity.
 
-Following are reasons why Microsoft giving up mobile business is not the same as RIM giving up Blackberry business.
+![](https://cdn-images-1.medium.com/max/600/1*igOQIopSDmL_RSmsBDX8qg.png)
 
-1.  MS did not wait until its late — Microsoft came to this conclusion is an extremely short period of time. In fact, long before this happened, they wrote off an entire acquisition that just didn’t make sense. Blackberry, on the other hand, is [still in denial](https://www.architecturaldigest.com/story/believe-it-or-not-blackberry-making-comeback).
-2.  MS doesn’t want to compete with _everyone and everything_ — In the book, he openly accepts defeat to and openly admires competition — but does so only based on specific products (ex, Apple’s IOS or Amazon’s Public Cloud business)
-3.  MS is already working with _everyone and everything_ — Including Cortana, Office 365 and some of the other experimental applications, most of his innovations are available whether you are an Apple user or Android user.
-4.  MS is on to something bigger — Capturing a market share where they stand at 0.03% is not their #1 priority. In fact, they are single-mindedly focused on AI/ ML and [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing), the latter of which has yet to see major competition, save Google.
+Idol theft, or more broadly, theft of antiquities, continues to occur in countries with antiquated laws (no pun) on how artifacts are acquired from countries (typically that have a long civilizational history — typically Asian countries like Cambodia, India, Pakistan, Afghanistan) to be sold to the highest bidders in countries that have a lot of money or incorrectly assume the role of OR posture to be the savior of these pieces of art. With several high net worth collectors and hungry institutional collectors (such as museums and galleries), these artifacts get passed around, with huge sums of money changing hands. Which is fine and dandy — but there are also rules and ethics to abide by — sadly, based on this book, I think the rules are oft-ignored.
 
-In fact, the decision to shutdown mobile hardware business will totally make sense to anyone who has read this book, assuming you had to read this book to know his vision.
+We live in a world that has just begun to appreciate concepts such as ethical trading (_think Starbucks_), supply chain transparency (_think Blood Diamond_), farm to table transparency (disclosure of origins of food ingredients), but all these have a business imperative. People at both ends of the transaction have an incentive to make it work. But with sculptures, these are often made 100s if not 1000s of years ago — lot of times, we don’t know even know who they are. This puts ethics pressure on the chain of custody and the people who play a role in the supply chain.
 
-But let’s face it — Cortana is not only a voice-assistant, but the delivery-device for Microsoft’s AI. Same can be said for Siri/ Apple and OK/ Google. In this context, **one aspect is unsettling**. While OK is available on Apple, OK will never be as accessible on Apple as Siri is. Similarly, Cortana will always be a second-class citizen to OK or Siri on the respective mobile platforms. With mobile usage picking up and [exceeding](http://bgr.com/2016/11/02/internet-usage-desktop-vs-mobile/) PC/ laptop usage in terms of apps usage or even plain browsing use, I feel like Microsoft is leaving money on the table. I wonder what MS’s (_read: Nadella’s_) thinking around that is. Giving up the (mobile) platform means two things — there won’t be a single platform on which Cortana is front and center. Secondly, all the ad revenues from mobile as well as running their own mobile appstore will be gone. Instead, they will be reduced to the position of a developer — for Apple and for Google.
+Through the real events in the lives of Kapoor and Ashokan and Selvaraj and Vijay (the author himself), the book exposes the intricacies of this trade. It also goes on to give an expose on one of the greatest smugglers of our recent times — an Indian guy with an American passport, with a detailed network spanning more than 5 countries, currently in a Chennai prison, waiting for his day.
 
-In short, we can expect Microsoft to be on a focused and profitable growth curve based on openness and collaboration, contrasted with Amazon’s rather diverse and risky ventures but all working “customer and backwards”. Meanwhile, Apple is all-too focused on iPhone based balance-sheets and a rather closed ecosystem. Google? Google and Microsoft seem to be investing most in futuristic technologies — however, the near-term impact has not been felt.
+A very interesting read if you are curious about the global trade of collectibles, the high-profile industry _and the underworld_ that connects art collectors, auction houses, museums, dealers and thieves — with a particular focus on metal and stone sculptures from South India.
 
-Microsoft really has hit Refresh.
+11/1 — Minor grammatical and sentencing edits

@@ -1,24 +1,24 @@
 ---
-title: Why do we need credit cards?
+title: Is Trump a boon or a bane for Twitter?
 description: >-
-  By way of the credit card industry, we have a strong and mature system, where
-  people can complete cashless transactions — whether it is…
-date: '2017-01-20T00:59:51.333Z'
+  No, I am not about to do Trump-bashing. But essentially, carrying the most
+  polarized and most social media savvy President ought to have…
+date: '2017-01-29T15:44:03.374Z'
 categories: ''
 keywords: ''
-slug: /@kuppurao/why-do-we-need-credit-cards-cb1de2a71add
+slug: /@kuppurao/is-trump-a-boon-or-a-bane-for-twitter-20da6f620b53
 ---
 
-Why do we need credit cards?
+Is Trump a boon or a bane for Twitter?
 
-![](https://cdn-images-1.medium.com/max/800/1*yNNN4jMjh4EFut5aCgY16w.jpeg)
+No, I am not about to do Trump-bashing. But essentially, carrying the most polarized and most social media savvy President ought to have its downside.
 
-By way of the credit card industry, we have a strong and mature system, where people can complete cashless transactions — whether it is immediate payment (ATM cards) or purchase on credit.
+On the plus side, Trump’s use of Twitter has given undoubted status to Twitter as the “new age media”, as a “pervasive and direct” communication tool. Twitter obviated the need for detailed media protocols to “get the word out”.
 
-But exactly why do we need the plastic thing?
+For Twitter, their usage trends have changed. Instead of hitting a peak at tech events or sports or entertainment events, or even people’s movements, Twitter now peaks at things like Executive Actions, oh-he-skipped-the-press-pool type of events.
 
-Those plastic things are prone to abuse, wear and tear, theft, regular lifecycle events (replacement, expiring cards) etc. In the first place, these cards were meant to do one thing — identify the individual. Most merchants any ways need secondary identification.
+Twitter is just a medium. Twitter can’t be responsible for what people say on Twitter. Hopefully they are not censoring.
 
-Biocards
+So when Trump says visitors to US will be required to declare their Twitter handles, it is different in a lot of ways. If this legislation comes through, people will start thinking about what to post on Twitter, whether to post on Twitter or even whether to be associated with Twitter at all.
 
-Why can’t people simply use fingerprints and an official ID to present themselves and complete a cashless transaction?
+THAT may – just _may_ – be the beginning of the end of Twitter.
