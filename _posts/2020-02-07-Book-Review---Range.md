@@ -1,3 +1,15 @@
+---
+title: Book Review — Range
+description: >-
+  A very interesting book that discusses learning methods, early vs late specialization, generalists vs specialists and so much more. Be sure to read about the 3 other books you should consider.
+date: '2020-02-07T22:57:12.710Z'
+categories: 'Book Review'
+keywords: 'Epstein'
+slug: /@kuppurao/book-review-the-idol-thief-f1066c6833d
+---
+
+
+
 Book Review — Range {.p-name}
 ===================
 
