@@ -10,15 +10,13 @@ slug: /@kuppurao/book-review-the-idol-thief-f1066c6833d
 
 
 
-Book Review — Range {.p-name}
+Book Review — Range
 ===================
 
 A very interesting book that discusses learning methods, early vs late
 specialization, generalists vs specialists and so much more. Be…
 
 * * * * *
-
-### Book Review — Range {#1080 .graf .graf--h3 .graf--leading .graf--title name="1080"}
 
 A very interesting book that discusses learning methods, early vs late
 specialization, generalists vs specialists and so much more. Be sure to
