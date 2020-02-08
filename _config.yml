@@ -46,10 +46,10 @@ minima:
     #   instance: example.com
 
 #```yaml
-header_pages:
-  - about.md
-  - music.md
-  - books.md
+#header_pages:
+#  - about.md
+#  - music.md
+#  - books.md
 #```
 
 # If you want to link only specific pages in your header, uncomment
