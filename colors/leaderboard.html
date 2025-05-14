@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Square Game Leaderboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        .leaderboard {
+            width: 80%;
+            max-width: 800px;
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f8f8;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .color-stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .color-box {
+            width: 100px;
+            height: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            color: white;
+            font-weight: bold;
+        }
+        .red { background-color: #ff5252; }
+        .blue { background-color: #4285f4; }
+        .green { background-color: #0f9d58; }
+        .yellow { background-color: #ffab40; color: black; }
+        .home-link {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .reset-button {
+            padding: 5px 10px;
+            background-color: #f44336;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .reset-button:hover {
+            background-color: #d32f2f;
+        }
+        .reset-all-button {
+            padding: 8px 16px;
+            background-color: #f44336;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .reset-all-button:hover {
+            background-color: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <h1>Color Square Game Leaderboard</h1>
+    
+    <div class="leaderboard">
+        <h2>Top Players</h2>
+        <table id="leaderboard-table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Username</th>
+                    <th>Clicks</th>
+                    <th>Favorite Color</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="leaderboard-body">
+                <!-- Leaderboard data will be inserted here -->
+                <tr><td colspan="5">Loading leaderboard data...</td></tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="color-stats">
+        <div class="color-box red">
+            <span id="red-count">0</span>
+            <span>Red</span>
+        </div>
+        <div class="color-box blue">
+            <span id="blue-count">0</span>
+            <span>Blue</span>
+        </div>
+        <div class="color-box green">
+            <span id="green-count">0</span>
+            <span>Green</span>
+        </div>
+        <div class="color-box yellow">
+            <span id="yellow-count">0</span>
+            <span>Yellow</span>
+        </div>
+    </div>
+    
+    <div class="home-link">
+        <a href="index.html">Back to Game</a>
+    </div>
+
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1048.0.min.js"></script>
+    <script src="leaderboard.js"></script>
+</body>
+</html>

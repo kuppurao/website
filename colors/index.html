@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Square Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(2, 200px);
+            grid-template-rows: repeat(2, 200px);
+            gap: 20px;
+        }
+        .square {
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: transform 0.2s;
+        }
+        .square:hover {
+            transform: scale(1.05);
+        }
+        .red { background-color: #ff5252; }
+        .blue { background-color: #4285f4; }
+        .green { background-color: #0f9d58; }
+        .yellow { background-color: #ffab40; }
+        .user-info {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .user-info input {
+            padding: 8px;
+            margin-bottom: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .stats {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .leaderboard-link {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Click on a Color!</h1>
+    
+    <div class="container">
+        <div class="square red" data-color="red"></div>
+        <div class="square blue" data-color="blue"></div>
+        <div class="square green" data-color="green"></div>
+        <div class="square yellow" data-color="yellow"></div>
+    </div>
+    
+    <div class="user-info">
+        <input type="text" id="username" placeholder="Enter your username" required>
+    </div>
+    
+    <div class="stats" id="user-stats">
+        <p>Your clicks: <span id="total-clicks">0</span></p>
+    </div>
+    
+    <div class="leaderboard-link">
+        <a href="leaderboard.html">View Leaderboard</a>
+    </div>
+
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1048.0.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
