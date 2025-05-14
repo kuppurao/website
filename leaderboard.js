@@ -9,6 +9,37 @@ const awsConfig = {
 // Initialize AWS SDK
 AWS.config.update(awsConfig);
 
+javascript
+// Function to reset user clicks
+function resetUserClicks(username) {
+    if (confirm(`Are you sure you want to reset clicks for ${username}?`)) {
+        // Call API to reset clicks in the database
+        const apiUrl = 'https://hprgyi84e4.execute-api.us-east-1.amazonaws.com/PROD/reset';
+        
+        fetch(apiUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ username: username })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert(`Clicks for ${username} have been reset!`);
+                // Refresh the leaderboard data
+                fetchLeaderboardData();
+            } else {
+                alert('Failed to reset clicks. Please try again.');
+            }
+        })
+        .catch(error => {
+            console.error('Error resetting clicks:', error);
+            alert('An error occurred while resetting clicks.');
+        });
+    }
+}
+
 // DOM Elements
 const leaderboardBody = document.getElementById('leaderboard-body');
 const colorCounts = {
